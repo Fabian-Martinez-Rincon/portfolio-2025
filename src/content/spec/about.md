@@ -21,7 +21,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
-    <img src="https://rincondelfabo.vercel.app/images/4.webp" alt="Descripción de la imagen" style="width: 80%; display: block; margin: auto;">
+    <img src="https://rincondelfabo.vercel.app/images/4.webp" alt="Descripción de la imagen" style="width: 60%; display: block; margin: auto;">
   </div>
   <div style="flex: 1;">
     <p>
@@ -37,13 +37,13 @@
     </p>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="https://rincondelfabo.vercel.app/images/5.webp" alt="Descripción de la imagen" style="width: 80%; display: block; margin: auto;">
+    <img src="https://rincondelfabo.vercel.app/images/5.webp" alt="Descripción de la imagen" style="width: 60%; display: block; margin: auto;">
   </div>
 </div>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
-    <img src="https://rincondelfabo.vercel.app/images/6.webp" alt="Descripción de la imagen" style="width: 70%; display: block; margin: auto;">
+    <img src="https://rincondelfabo.vercel.app/images/6.webp" alt="Descripción de la imagen" style="width: 60%; display: block; margin: auto;">
   </div>
   <div style="flex: 1;">
     <p>
