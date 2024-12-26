@@ -66,7 +66,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'Curriculum',
       icon: 'flowbite:briefcase-solid',
-      url: 'https://store.steampowered.com',
+      url: 'https://rincondelfabo.vercel.app/resumeES',
     },
     {
       name: 'GitHub',
