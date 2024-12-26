@@ -3,7 +3,7 @@ title: Old Portfolio
 published: 2021-10-04
 description: "Fue de mis primeros proyectos, es por eso que dentro cuenta con proyectos viejos ya que no lo fui actualizando para tenerlo como recuerdo."
 image: '../../allProjects/oldPortfolio.webp'
-category: Proyectos Webs
+category: Otros
 ---
 
 - [Link del Repositorio](https://github.com/Fabian-Martinez-Rincon/Old_Portfolio)

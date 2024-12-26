@@ -3,7 +3,7 @@ title: Nomadiix
 published: 2022-10-04
 description: "Antes de empezar en una empresa, se me ocurrio crear la mia propia para tener mas experiencia y de paso queda para mi portfolio"
 image: '../../allProjects/nomadiix.webp'
-category: Proyectos Webs
+category: Otros
 ---
 
 - [Pagina Principal](https://nomadiix-website.vercel.app/)

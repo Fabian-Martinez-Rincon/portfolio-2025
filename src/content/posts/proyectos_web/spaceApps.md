@@ -1,9 +1,9 @@
 ---
-title: Space Apps
+title: 👽 Space Apps
 published: 2022-10-04
 description: "Proyecto hecho en la hackaton Space App. Tuve la oportunidad de trabajar con dos compañeros. Nos pudimos distribuir las tareas a corde a pesar de que eramos pocas personas en el grupo, pudimos exponer nuestro proyecto al final de tod y fue un buen fin de semana."
 image: '../../allProjects/spaceApps.webp'
-category: Proyectos Webs
+category: Otros
 ---
 
 # 👽 Cuestion de espacio

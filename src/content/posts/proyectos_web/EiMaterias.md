@@ -3,7 +3,7 @@ title: Ei Materias
 published: 2021-10-04
 description: "Readme con apuntes, prácticas y códigos relacionados a la UNLP informática."
 image: '../../allProjects/eiMaterias.png'
-category: Proyectos Webs
+category: Otros
 ---
 
 - [Link del Repositorio](https://github.com/Fabian-Martinez-Rincon/EI-Materias)

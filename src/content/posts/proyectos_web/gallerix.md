@@ -3,7 +3,7 @@ title: Gallerix
 published: 2022-10-04
 description: "Galeria de Imagenes"
 image: '../../allProjects/gallerix.webp'
-category: Proyectos Webs
+category: Otros
 ---
 
 - [Link del Repositorio](https://github.com/Fabian-Martinez-Rincon/Galleriix-Frontend)

@@ -1,6 +1,6 @@
 ---
 title: Keypad ⌨️
-description: "Este informe mostrará y describirá todo lo realizado por el alumno Fabián Martínez Rincón de la Escuela Técnica Albert Thomas número 6, en el sector Arduino. Durante el período de prácticas aprenderemos el uso y funciones de las herramientas y módulos que nos brinda Arduino y cómo aprovecharlos a lo largo de nuestros proyectos. Vamos a realizar un teclado en el que por medio de dos teclas nos permita subir y bajar en un abecedario y poder elegir letra por letra hasta enviar una frase por bluetooh a nuestro receptor que se encuentra en el lugar deseado por el usuario."
+description: "Este informe mostrará y describirá todo lo realizado por el alumno Fabián Martínez Rincón de la Escuela Técnica Albert Thomas número 6, en el sector Arduino. Durante el período de prácticas aprenderemos el uso y funciones de las herramientas y módulos que nos brinda Arduino y cómo aprovecharlos a lo largo de nuestros proyectos."
 image: '../../allProjects/keypad.webp'
 published: 2020-05-04
 category: Otros

@@ -3,7 +3,7 @@ title: Eficiencia X
 published: 2022-10-04
 description: "Calcula la memoria estática de un programa en Pascal"
 image: '../../allProjects/eficienciax.jpg'
-category: Proyectos Webs
+category: Otros
 ---
 
 - [Link del repositorio](https://github.com/Fabian-Martinez-Rincon/Efficiency_X)

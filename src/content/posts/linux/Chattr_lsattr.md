@@ -2,7 +2,6 @@
 title: 'Chattr y Lsattr'
 published: 2024-03-07
 description: ''
-image: '/posts/linux/Chattr_y_Lsattr.jpg'
 category: Linux
 ---
 

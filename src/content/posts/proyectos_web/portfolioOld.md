@@ -3,7 +3,7 @@ title: Porfolio Old
 published: 2021-10-04
 description: "Esta web fue un año despues del primer portfolio, aprendi a utilizar particulas, a usar filtros para elementos y como estructurar una web en general."
 image: '../../allProjects/portfolioOld.webp'
-category: Proyectos Webs
+category: Otros
 ---
 
 - [Link del repositorio](https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon-old)

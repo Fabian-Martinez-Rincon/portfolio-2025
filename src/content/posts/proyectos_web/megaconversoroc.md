@@ -3,7 +3,7 @@ title: Mega Conversor OC
 published: 2021-10-04
 description: "automatización de muchas conversiones y operaciones en la materia “Organización de computadoras”."
 image: '../../allProjects/megaconversor.webp'
-category: Proyectos Webs
+category: Otros
 ---
 
 - [Web](https://fabian-martinez-rincon.github.io/Mega-Conversor-OC/)

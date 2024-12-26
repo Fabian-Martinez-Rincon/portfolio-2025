@@ -3,7 +3,7 @@ title: Fablog
 published: 2022-10-04
 description: "Mini Blog en Astro"
 image: '../../allProjects/fablog.webp'
-category: Proyectos Webs
+category: Otros
 ---
 
 - [Website](https://fablogg.vercel.app/)

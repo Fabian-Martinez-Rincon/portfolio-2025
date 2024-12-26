@@ -3,7 +3,7 @@ title: Linktree
 published: 2022-10-04
 description: "Clone de linktree que basicamente contiene todos los links importantes"
 image: '../../allProjects/linktree.webp'
-category: Proyectos Webs
+category: Otros
 ---
 
 - [Website](https://linktree-fabian.vercel.app/)
